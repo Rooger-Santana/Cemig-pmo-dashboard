@@ -34,7 +34,7 @@ Metodologia: PMBOK 7ª Edição e Scrum.
 
 Como Visualizar
 
-Faça o download do arquivo projeto-modelo-cemig.html.
+Faça o download do arquivo Projeto-Modelo-CEMIG.html.
 
 Abra em qualquer navegador moderno.
 
